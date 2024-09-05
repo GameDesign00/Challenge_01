@@ -34,7 +34,7 @@
 
 # Mayra Lago:
 
-## "Me resultó interesante la manera en que se realizó el trabajo ya que era bastante similar a un set de Lego o un juego de montar bloques, donde utilizas piezas de todos los tamaños para formar un modelo. Esta experiencia me hizo comprender que, al igual que la estructura que hicimos en grupo, muchos elementos en juegos son una composición de una variedad de elementos de diferentes dimensiones."
+## "Me resultó interesante la manera en que se realizó el trabajo, ya que era bastante similar a un set de legos o un juego de montar bloques. Donde utilizas piezas de todos los tamaños para formar un todo. Por lo que esta experiencia me hizo tener presente que al igual que la estructura que hicimos en grupo, muchos elementos en juegos son una composición de una variedad de elementos de diferentes dimensiones."
 
 # Jancarlos González:
 
