@@ -42,7 +42,7 @@
 
 # Sebastián Negrón:
 
-## “Aunque la actividad resultó bastante llevadera de completar, entiendo el propósito de ella y considero que es necesaria de hacer. La actividad me sirvió para ir dominando el motor y sus herramientas. Además, esta es la primera vez que utilizamos Unity en equipo de tal modo que tuvimos que practicar la coordinación.”                  "
+## “Aunque la actividad resultó bastante llevadera de completar, entiendo el propósito de ella y considero que es necesaria de hacer. La actividad me sirvió para ir dominando el motor y sus herramientas. Además, esta es la primera vez que utilizamos Unity en equipo de tal modo que tuvimos que practicar la coordinación.”
 
 
 
