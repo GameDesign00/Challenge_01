@@ -1,5 +1,8 @@
-# Parte I: Paredes de la Casa
+# Introducción 
 
+## El objetivo de este reto es hacer una casa en Unity y explicar paso por paso el proceso. Para la construcción de la vivienda, es importante mencionar las herramientas que utilizamos, principalmente dos. La primera consiste en las herramientas de transformación que Unity provee. La segunda es la pestaña de “Game Object”. Dentro de ella hay una categoría conocida como “3D Objects” la cual nos permite insertar la figura que utilizamos, el cubo.
+
+# Parte I: Paredes de la Casa
 
 ## El primer paso para la creación de la casa fue insertar un cubo el cual fue transformado para formar un rectángulo. Este será la parte trasera de la casa.
 
